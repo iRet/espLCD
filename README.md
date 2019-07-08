@@ -22,6 +22,7 @@ It is highly recommended to use (rshell)[https://github.com/dhylands/rshell] to 
 `rshell -p /dev/tty.SLAB_USBtoUART`
 
 Internal storage is available as /pyboard
+
 Update api tokens and wifi credentials beforehand
 
 ```shell
