@@ -8,15 +8,15 @@ i2c connected temperature and humidity sensor (htu21d)
 
 ## API tokens
 Project uses two data providers:
-[OpenWeather](https://openweathermap.org/)
-[TimeZoneDB](https://timezonedb.com)
+- [OpenWeather](https://openweathermap.org/)
+- [TimeZoneDB](https://timezonedb.com)
 
 ## Libraries
-[python_lcd](https://github.com/dhylands/python_lcd)
-[htu21d-esp8266](https://github.com/julianhille/htu21d-esp8266)
+- [python_lcd](https://github.com/dhylands/python_lcd)
+- [htu21d-esp8266](https://github.com/julianhille/htu21d-esp8266)
 
 ## Tools
-It is highly recommended to use (rshell)[https://github.com/dhylands/rshell] to upload scripts
+It is highly recommended to use [rshell](https://github.com/dhylands/rshell) to upload scripts
 
 ## Upload
 `rshell -p /dev/tty.SLAB_USBtoUART`
