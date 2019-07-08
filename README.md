@@ -1,8 +1,8 @@
 # espLCD
-esp32 weather station micro python
+esp32 weather station using micro python
 
 ## Hardware
-esp32 board with installed micro python
+esp32 board with pre-installed micro python
 i2c connected text lcd display (1602)
 i2c connected temperature and humidity sensor (htu21d)
 
@@ -18,9 +18,9 @@ Project uses two data providers:
 ## Tools
 It is highly recommended to use (rshell)[https://github.com/dhylands/rshell] to upload scripts
 
-
 ## Upload
 `rshell -p /dev/tty.SLAB_USBtoUART`
+
 Internal storage is available as /pyboard
 Update api tokens and wifi credentials beforehand
 
